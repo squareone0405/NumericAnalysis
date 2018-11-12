@@ -1,0 +1,13 @@
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\bin\Debug\DlibDotNet.Native.dll
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\bin\Debug\DlibDotNet.Native.Dnn.dll
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\obj\Debug\NumericalAnalysis1.ImageForm.resources
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\obj\Debug\NumericalAnalysis1.FaceWraper.resources
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\obj\Debug\NumericalAnalysis1.csproj.GenerateResource.Cache
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\obj\Debug\NumericalAnalysis1.csprojResolveAssemblyReference.cache
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\bin\Debug\NumerialAnalysis1.exe.config
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\bin\Debug\NumerialAnalysis1.exe
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\bin\Debug\NumerialAnalysis1.pdb
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\bin\Debug\DlibDotNet.dll
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\obj\Debug\NumerialAnalysis1.Properties.Resources.resources
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\obj\Debug\NumerialAnalysis1.exe
+F:\UP&UP\C#\HW\NumericalAnalysis1\HW1\obj\Debug\NumerialAnalysis1.pdb
