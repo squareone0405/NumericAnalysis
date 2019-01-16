@@ -557,7 +557,7 @@ namespace NumericalAnalysis1
         {
             alignedKeyPoint = MathTools.alignFace(sourceKeyPoint, targetKeyPoint);
             RectangleF boundingBox = getBoundingBox();
-            double learningRate = 0.7;
+            double learningRate = 0.5;
             int iter = 50;
             int gridNum = (int)(Math.Sqrt(boundingBox.Width * boundingBox.Height) / 50 + 0.5) + 9;//网格尺寸与boundingBox大小有关，参数设置为经验值
             int pointSize = alignedKeyPoint.Count();
